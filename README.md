@@ -9,7 +9,7 @@ The system is designed to make chore chart creation and management incredible ea
 ### Chosen
 * Ruby on Rails
 * Postgres
-* REACT
+* React.js
 * stimulus.js
 * Slim
 * Capybara
