@@ -5,12 +5,11 @@ gem 'puma',         '3.9.1'
 gem 'sass-rails',   '5.0.6'
 gem 'uglifier',     '3.2.0'
 gem 'coffee-rails', '4.2.2'
-gem 'jquery-rails', '4.3.1'
 gem 'turbolinks',   '5.0.1'
 gem 'jbuilder',     '2.7.0'
 gem 'rspec-rails'
 gem 'slim-rails'
-gem 'bootstrap-sass', '3.3.7'
+gem 'bootstrap', '~> 4.0.0.beta.3'
 gem 'bcrypt',         '3.1.12'
 
 group :development, :test do
